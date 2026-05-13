@@ -27,3 +27,9 @@ It is not futuristic. It is proven.
 Good felt has body. It should not collapse immediately, but it should not feel like armor either.
 
 For a sauna hat, the goal is steady heat, not total separation from the room.
+
+## Why Thickness Matters
+
+Thin felt can look right and still fail in the room. The useful part is density. You want enough material to slow the heat without making the hat heavy, wet, or awkward.
+
+That balance is the difference between a sauna object and a sauna prop.

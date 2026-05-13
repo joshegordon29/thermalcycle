@@ -27,3 +27,9 @@ You do not need to turn hydration into a project. You do need to drink.
 This is the easiest habit to skip and the one that changes the whole session.
 
 Let the heat finish. Let your breath settle. Let the world stay quiet before the screen starts asking for you again.
+
+## Keep The Exit Simple
+
+You do not need a perfect protocol. You need a transition. Towel off, drink water, put on dry clothes, and take one ordinary minute before you re-enter the day.
+
+The best after-sauna habit is the one that lets the session follow you out of the room.

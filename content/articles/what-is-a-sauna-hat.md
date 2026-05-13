@@ -9,7 +9,7 @@ featured: true
 
 A sauna hat is a simple piece of heat gear: a wool or felt hat worn in the sauna to buffer your scalp, ears, and hair from the hottest air in the room.
 
-Heat rises. Your head is usually closest to the ceiling. That means your scalp can feel sharp heat before the rest of your body is done warming. A good sauna hat slows that spike down.
+Heat rises. Your head is usually closest to the ceiling. That means your scalp, ears, and hair can feel sharp heat before the rest of your body is done warming. A good sauna hat slows that spike down.
 
 ## What It Does
 
@@ -35,3 +35,9 @@ If your head quits before your body does, a hat is worth trying.
 Look for full crown coverage, ear coverage, dense felt, natural fiber, and a shape that sits low without clamping your head.
 
 Avoid novelty hats that are mostly costume. They can be fun, but the best sauna hat is a tool first.
+
+## Do You Need One?
+
+No one needs a sauna hat to sit in a sauna. But if your sessions end because your head gets hot before your body feels finished, a hat can change the timing of the whole round.
+
+That is the useful test. Bring one in, wear it dry, and see whether the second round feels steadier.

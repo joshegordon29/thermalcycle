@@ -1,0 +1,16 @@
+{
+  "name": "Thermal Cycle",
+  "short_name": "Thermal Cycle",
+  "description": "Sauna equipment, product, clothing, and material reviews.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4efe6",
+  "theme_color": "#181512",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

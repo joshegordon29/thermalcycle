@@ -8,8 +8,10 @@ const publicDir = path.join(root, "public");
 
 const site = {
   name: "Thermal Cycle",
+  title: "Thermal Cycle | Sauna Equipment Reviews and Gear Guides",
   url: "https://thermalcycle.com",
-  assetVersion: "20260513-2",
+  assetVersion: "20260513-3",
+  socialImage: "https://thermalcycle.com/assets/thermalcycle-og.png",
   description:
     "Field notes, reviews, and material guides for sauna gear, heat, cold, and the ritual around it.",
 };
@@ -130,15 +132,32 @@ function readArticles() {
 }
 
 function layout({ title, description, body, canonical = site.url }) {
-  const pageTitle = title === site.name ? title : `${title} | ${site.name}`;
+  const pageTitle = title === site.name ? site.title : `${title} | ${site.name}`;
+  const metaDescription = description || site.description;
   return `<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>${escapeHtml(pageTitle)}</title>
-    <meta name="description" content="${escapeHtml(description || site.description)}">
+    <meta name="description" content="${escapeHtml(metaDescription)}">
+    <meta name="theme-color" content="#181512">
     <link rel="canonical" href="${escapeHtml(canonical)}">
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+    <link rel="manifest" href="/site.webmanifest">
+    <meta property="og:site_name" content="${escapeHtml(site.name)}">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="${escapeHtml(pageTitle)}">
+    <meta property="og:description" content="${escapeHtml(metaDescription)}">
+    <meta property="og:url" content="${escapeHtml(canonical)}">
+    <meta property="og:image" content="${site.socialImage}">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="Thermal Cycle sauna reviews and material guides">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="${escapeHtml(pageTitle)}">
+    <meta name="twitter:description" content="${escapeHtml(metaDescription)}">
+    <meta name="twitter:image" content="${site.socialImage}">
     <link rel="stylesheet" href="/assets/styles.css?v=${site.assetVersion}">
   </head>
   <body>

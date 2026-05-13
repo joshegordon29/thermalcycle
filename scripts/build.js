@@ -13,7 +13,7 @@ const site = {
   assetVersion: "20260513-3",
   socialImage: "https://thermalcycle.com/assets/thermalcycle-og.png",
   description:
-    "Field notes, reviews, and material guides for sauna gear, heat, cold, and the ritual around it.",
+    "Independent sauna equipment reviews, product guides, and material explainers for heat, cold, and the gear around it.",
 };
 
 function ensureDir(dir) {
@@ -225,7 +225,7 @@ function build() {
             <p class="eyebrow">Sauna reviews / materials / ritual</p>
           </div>
           <h1>Gear notes for heat, cold, and the walk back.</h1>
-          <p class="lede">A field guide to sauna equipment, material choices, and the small tools that change the way a session feels.</p>
+          <p class="lede">Independent sauna equipment reviews, product guides, and material explainers for heat, cold, and the gear around it.</p>
           <div class="hero-actions">
             <a class="button button-primary" href="/reviews/">Read reviews</a>
             <a class="button button-secondary" href="/guides/">Start with guides</a>
@@ -242,7 +242,7 @@ function build() {
             ? `<a class="feature-panel card" href="/articles/${featured.slug}/">
               <div class="panel-topline">
                 <span class="badge badge-hot">Featured</span>
-                <span>Field note 001</span>
+                <span>Featured article</span>
               </div>
               <h2>${escapeHtml(featured.title)}</h2>
               <p>${escapeHtml(featured.description)}</p>

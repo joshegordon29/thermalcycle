@@ -129,20 +129,14 @@ for (let y = 0; y < height; y += 1) {
   }
 }
 
-fillRect(68, 70, 108, 108, ink);
-drawText("TC", 92, 106, 8, cream, 1);
+drawText("THERMAL", 82, 150, 13, ink, 1);
+drawText("CYCLE", 82, 250, 13, ink, 1);
+drawText("SAUNA REVIEWS", 86, 408, 6, heat, 1);
+drawText("MATERIALS", 586, 408, 6, heat, 1);
+drawText("GEAR", 954, 408, 6, heat, 1);
 
-drawText("SAUNA REVIEWS / MATERIALS / GEAR", 68, 214, 5, heat, 1);
-drawText("THERMAL", 68, 292, 13, ink, 1);
-drawText("CYCLE", 68, 394, 13, ink, 1);
-drawText("SAUNA EQUIPMENT REVIEWS", 72, 516, 5, green, 1);
-drawText("THERMALCYCLE.COM", 72, 570, 4, ink, 1);
-
-fillRect(888, 250, 224, 224, ink);
-fillRect(922, 284, 54, 12, cream);
-fillRect(1008, 284, 54, 12, cream);
-fillRect(922, 428, 140, 12, cream);
-fillRect(922, 326, 140, 64, heat);
+fillRect(86, 366, 1028, 6, ink);
+fillRect(86, 594, 1028, 4, mix(ink, paper, 0.74));
 
 const ihdr = Buffer.alloc(13);
 ihdr.writeUInt32BE(width, 0);

@@ -31,3 +31,5 @@ A great wool hat with a bad fit is still a bad sauna hat. The same is true for l
 Choose wool for heat. Choose linen for lightness.
 
 If you are buying one sauna hat and you use hot rooms regularly, start with wool.
+
+For buying criteria, read [The Best Sauna Hats We Tested](/articles/best-sauna-hats/). For care, read [How To Care for a Wool Sauna Hat](/articles/how-to-care-for-a-wool-sauna-hat/).

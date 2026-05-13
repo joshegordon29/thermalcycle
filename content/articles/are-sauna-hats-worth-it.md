@@ -35,3 +35,5 @@ It also will not fix a bad room, poor ventilation, dehydration, or staying in to
 Buy for material first. Dense wool felt is usually worth paying more for than novelty shape, embroidery, or a clever line on the front.
 
 A sauna hat should make the round better. Everything else is decoration.
+
+For a material breakdown, read [Why Felted Wool Works in a Sauna](/articles/why-felted-wool-works-in-a-sauna/). For long rounds, read [The Best Sauna Hat for Long Sessions](/articles/best-sauna-hat-for-long-sessions/).

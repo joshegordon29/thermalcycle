@@ -35,3 +35,5 @@ This is the unglamorous one. After the session, your towel and suit need somewhe
 ## What To Skip
 
 Skip anything that needs too much attention. The sauna is already doing enough.
+
+For home-specific gear, read [The Best Home Sauna Accessories](/articles/best-home-sauna-accessories/). For public sessions, read [What To Bring To a Public Sauna](/articles/what-to-bring-to-a-public-sauna/).

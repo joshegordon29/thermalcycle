@@ -33,3 +33,5 @@ For a sauna hat, the goal is steady heat, not total separation from the room.
 Thin felt can look right and still fail in the room. The useful part is density. You want enough material to slow the heat without making the hat heavy, wet, or awkward.
 
 That balance is the difference between a sauna object and a sauna prop.
+
+For fit and use criteria, read [The Best Sauna Hat for Long Sessions](/articles/best-sauna-hat-for-long-sessions/).

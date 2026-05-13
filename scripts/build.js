@@ -9,6 +9,7 @@ const publicDir = path.join(root, "public");
 const site = {
   name: "Thermal Cycle",
   url: "https://thermalcycle.com",
+  assetVersion: "20260513-2",
   description:
     "Field notes, reviews, and material guides for sauna gear, heat, cold, and the ritual around it.",
 };
@@ -138,7 +139,7 @@ function layout({ title, description, body, canonical = site.url }) {
     <title>${escapeHtml(pageTitle)}</title>
     <meta name="description" content="${escapeHtml(description || site.description)}">
     <link rel="canonical" href="${escapeHtml(canonical)}">
-    <link rel="stylesheet" href="/assets/styles.css">
+    <link rel="stylesheet" href="/assets/styles.css?v=${site.assetVersion}">
   </head>
   <body>
     <header class="site-header">

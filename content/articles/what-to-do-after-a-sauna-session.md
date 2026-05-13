@@ -33,3 +33,5 @@ Let the heat finish. Let your breath settle. Let the world stay quiet before the
 You do not need a perfect protocol. You need a transition. Towel off, drink water, put on dry clothes, and take one ordinary minute before you re-enter the day.
 
 The best after-sauna habit is the one that lets the session follow you out of the room.
+
+For packing the session before you arrive, read [How To Build a Better Sauna Bag](/articles/how-to-build-a-better-sauna-bag/).

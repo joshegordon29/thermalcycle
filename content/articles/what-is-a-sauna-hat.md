@@ -36,6 +36,8 @@ Look for full crown coverage, ear coverage, dense felt, natural fiber, and a sha
 
 Avoid novelty hats that are mostly costume. They can be fun, but the best sauna hat is a tool first.
 
+For a buying framework, read [The Best Sauna Hats We Tested](/articles/best-sauna-hats/). For material comparison, read [Wool vs. Linen Sauna Hats](/articles/wool-vs-linen-sauna-hats/).
+
 ## Do You Need One?
 
 No one needs a sauna hat to sit in a sauna. But if your sessions end because your head gets hot before your body feels finished, a hat can change the timing of the whole round.

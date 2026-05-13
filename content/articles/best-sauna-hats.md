@@ -16,6 +16,8 @@ Dense felted wool is the benchmark. It buffers heat, keeps its shape, and feels 
 
 For a handmade wool option with full-head coverage, see the current sauna hat release at [shop.theguss.com](https://shop.theguss.com/).
 
+For a direct brand comparison, read [Guss vs. Felty vs. All Day Sauna Co. Sauna Hats](/articles/guss-vs-felty-vs-all-day-sauna-hats/).
+
 ## Best For Public Sauna: Structure Over Novelty
 
 Choose something with enough structure to survive being stuffed into a tote, but not so stiff that it feels like a helmet. Ear coverage matters in public saunas because the heat quality can vary wildly from room to room.
